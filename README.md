@@ -36,7 +36,7 @@ This tutorial outlines the post-install configuration of the open-source help de
 <br />
 
 <p>
-<img src="[https://i.imgur.com/DJmEXEB.png](https://i.imgur.com/JED51Jl.png)" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="(https://i.imgur.com/JED51Jl.png)" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <br />
 
@@ -60,6 +60,51 @@ This tutorial outlines the post-install configuration of the open-source help de
 </p>
 
   Navagate to Agents > Agents
+
+
+<br />
+
+<p>
+<img src="https://i.imgur.com/wtEMpvA.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+
+- Now you'll Create a new department
+- Navagate to Agents > Departments
+<br />
+
+<p>
+<img src="https://i.imgur.com/0YJmRXi.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+
+- Navagate to Agents > Teams
+
+<br />
+
+<p>
+<img src="https://i.imgur.com/mZ7E5aM.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+- Switch from the Admin panel to Agent panel
+- Then create new users that will generate tickets
+<br />
+
+<p>
+<img src="https://i.imgur.com/f4osgeq.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+
+<br />
+
+<p>
+<img src="https://i.imgur.com/BfwYsfY.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+
+- Generate a SLA 
+- Go back to the Admin Panel
+- Go to Manage > SLA
+
+<br />
+
+<img src="https://i.imgur.com/BfwYsfY.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
 
 
 <br />
